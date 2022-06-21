@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning skills
+
 
 
 <!---
